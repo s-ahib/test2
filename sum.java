@@ -1,11 +1,12 @@
-import java.util.*;
+
 class sum
 {
 public static void main(String str[])
 {
 int sum,n1,n2;
 
-Scanner s= new Scanner();
+n1=3;
+n2=6;
 
 System.out.println("Enter numbers to add " );
 n1=s.nextInt();
