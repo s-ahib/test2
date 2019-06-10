@@ -8,9 +8,7 @@ int sum,n1,n2;
 n1=3;
 n2=6;
 
-System.out.println("Enter numbers to add " );
-n1=s.nextInt();
-n2=s.nextInt();
+
 sum=n1+n2;
 System.out.println("Sum is "+sum);
 	
