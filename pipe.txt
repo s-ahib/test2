@@ -36,7 +36,8 @@ image 'ubuntu'
 }
 }
 steps{
-echi "Running the integration test..."
+echo "Running the integration test..."
 }
 }
 }
+}}}
